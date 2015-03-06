@@ -1,0 +1,8 @@
+A -> B
+B -> C
+
+C -> da
+C -> dd | big
+C -> da
+C -> @
+D ->

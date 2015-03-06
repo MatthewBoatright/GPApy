@@ -17,15 +17,25 @@ Reading file: input.txt
 Selected Grammar
 ----------------
 A -> B
+
 B -> C
+
 C -> da
+
 C -> dd | big
+
 C -> da
+
 C -> empty
+
 D ->
 
 
+
 A ['B']
+
 B ['C']
+
 C ['da', 'dd', 'big', 'empty']
+
 D 0

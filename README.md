@@ -1,7 +1,7 @@
 # GPApy
 LL(1) Grammar Parser &amp; Adjuster (written in python)
 
-The purpose of this project is primarily a learning experience for myself to become more familiar with both Python and GitHub.!
+The purpose of this project is primarily a learning experience for myself to become more familiar with both Python and GitHub.
 
 The description of the project:
 This is a program that will accept an input file as a command line argument. It will parse the file line by line and break it down into tokens.

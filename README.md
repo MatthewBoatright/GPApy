@@ -11,31 +11,21 @@ If it is not it will attempt to adjust the grammar to make it so.
 
 More info to come soon.
 
-Sample output:
+Sample output
+----------------
 Reading file: input.txt 
 
-Selected Grammar
-----------------
+Selected Grammar: 
 A -> B
-
 B -> C
-
 C -> da
-
 C -> dd | big
-
 C -> da
-
 C -> empty
-
 D ->
 
-
-
+Dictionary:
 A ['B']
-
 B ['C']
-
 C ['da', 'dd', 'big', 'empty']
-
 D 0

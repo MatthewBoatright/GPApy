@@ -1,8 +1,3 @@
-A -> B
-B -> C
-
-C -> da
-C -> dd | big
-C -> da
-C -> @
-D ->
+S -> A B a b | a b A | A S B | S a b | S A A B | @
+A -> a
+B -> b

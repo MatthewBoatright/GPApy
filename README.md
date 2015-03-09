@@ -16,16 +16,27 @@ Sample output
 Reading file: input.txt 
 
 Selected Grammar: 
-A -> B
+
+A -> B 
+
 B -> C
+
 C -> da
+
 C -> dd | big
+
 C -> da
+
 C -> empty
+
 D ->
 
 Dictionary:
+
 A ['B']
+
 B ['C']
+
 C ['da', 'dd', 'big', 'empty']
+
 D 0
